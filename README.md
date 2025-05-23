@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 I'm Arian Pasquali — I build **evaluation pipelines** for NLP and Generative AI systems.
 
 🔍 I specialize in **data mining**, **NLP**, **AI evaluation**, **red teaming**, and **domain-specific GenAI applications**.  
