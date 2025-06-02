@@ -27,5 +27,6 @@ I'm Arian Pasquali — I build **evaluation pipelines** for NLP and Generative A
 - Evaluation frameworks  
 - Real-world AI assistant applications  
 
-📫 Reach out via [LinkedIn](https://www.linkedin.com/in/arianpasquali/) and my [personal blog](https://arianpasquali.github.io)
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/arianpasquali/) and my site at [https://arianpasquali.github.io](https://arianpasquali.github.io)
+
 
