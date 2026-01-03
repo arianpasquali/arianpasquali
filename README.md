@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I'm Arian Pasquali — I build **evaluation pipelines** for NLP and Generative AI systems.
 
-🔍 I specialize in **data mining**, **NLP**, **AI evaluation**, **red teaming**, and **domain-specific GenAI applications**.  
-🧠 My work bridges consulting, engineering, and applied research, with a strong focus on **Natural Language Processing**, **Information Retrieval**, and **AI Agents**.  
-🔬 Currently at [Faktion](https://faktion.com), where I help companies navigate their AI journey.  
+🔍 I specialize in **data mining**, **NLP**, **AI evaluation**, and **domain-specific GenAI applications**.  
+🧠 My work bridges consulting, engineering, and applied research, with a strong focus on **Natural Language Processing**, **Information Retrieval**, **LLMs**, and **AI Agents**.  
+🔬 Currently at [Orq.ai](https://orq.ai), where I help build the next generation of tools to manage AI operations.  
 🛡️ Recently, I’ve been focusing on the intersection of **AI agents**, **data mining** and **evaluation methodologies**.  
 
 👨‍💻 Always open to collaborations, especially in:  
