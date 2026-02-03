@@ -1,32 +1,31 @@
-## Hi there 👋
+# Arian Pasquali
 
-<!--
-**arianpasquali/arianpasquali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** specializing in NLP, LLM systems, and information retrieval.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
 
-I'm Arian Pasquali — I build **evaluation pipelines** for NLP and Generative AI systems.
+Currently at [Orq.ai](https://orq.ai), building tools for managing AI operations. My work spans applied research, engineering, and consulting—with deep expertise in NLP, information retrieval, and AI agents.
 
-🔍 I specialize in **data mining**, **NLP**, **AI evaluation**, and **domain-specific GenAI applications**.  
-🧠 My work bridges consulting, engineering, and applied research, with a strong focus on **Natural Language Processing**, **Information Retrieval**, **LLMs**, and **AI Agents**.  
-🔬 Currently at [Orq.ai](https://orq.ai), where I help build the next generation of tools to manage AI operations.  
-🛡️ Recently, I’ve been focusing on the intersection of **AI agents**, **data mining** and **evaluation methodologies**.  
+Recent focus: routing, evaluation methodologies for LLM-based systems, and domain-specific GenAI applications.
 
-👨‍💻 Always open to collaborations, especially in:  
-- Domain-specific dataset design  
-- Evaluation frameworks  
-- Real-world AI assistant applications  
+### Research
 
-📫 Reach out via [LinkedIn](https://www.linkedin.com/in/arianpasquali/) and my site at [https://arianpasquali.github.io](https://arianpasquali.github.io)
+Co-author of [**YAKE!**](https://github.com/INESCTEC/yake)—an unsupervised keyword extraction method cited 1,300+ times. Published at ECIR, Information Sciences, and other venues on topics including temporal summarization, narrative extraction, and text mining.
 
+Notable work:
+- **YAKE!** — Language-independent keyword extraction from single documents
+- **Text2Story** — Workshop series on narrative extraction from text (ECIR)
 
+[Google Scholar](https://scholar.google.com/citations?user=_sgWaQQAAAAJ)
+
+### Open to Collaborate
+
+- Evaluation frameworks for LLMs and AI agents
+- Domain-specific dataset design
+- Real-world AI assistant applications
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/arianpasquali/)
